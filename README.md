@@ -1,7 +1,9 @@
 Tg Bash
 -
+Currently Not maintained (need maintaner)
 This is a bot of telegram (public to test) based in [Telegram-Bot-Bash](https://github.com/topkecleon/telegram-bot-bash)
-You can test the bot in bash just cloning the repository.
+Yo
+u can test the bot in bash just cloning the repository.
 
 
 | Require  |
